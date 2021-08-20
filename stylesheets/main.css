@@ -20,11 +20,15 @@ button {background-color: rgb(144, 201, 0);
 nav {background-color: rgb(20, 0, 155);
      color: white;
      margin: 0px;
-     padding: 15px;
+     padding: 8px;
+     text-align: center;
     }
 a {text-decoration: none;
    color: white;
    background-color: rgb(20, 0, 155);
+   display: inline-block;
+   width: 25%;
+   margin: 0 auto;
    padding: 15px;
    }
 section {background-color: white;
